@@ -14,7 +14,7 @@ name                     : &name "Zheyu Qi"
 description              : &description "personal description"
 url                      : https://zqi180252-oss.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Jampong-94/Jampong-94.github.io"
+repository               : "zqi180252-oss/zqi180252-oss.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
