@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "John Ampong's Homepage"
+title                    : "Zheyu Qi's Homepage"
 title_separator          : "-"
-name                     : &name "John O. Ampong"
+name                     : &name "Zheyu Qi"
 description              : &description "personal description"
-url                      : https://Jampong-94.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zqi180252-oss.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Jampong-94/Jampong-94.github.io"
 
@@ -22,13 +22,13 @@ repository               : "Jampong-94/Jampong-94.github.io"
 author:
   # Biographic information
   avatar           : "Profile_picture.jpg"
-  name             : "John O. Ampong"
+  name             : "Zheyu Qi"
   pronouns         : # example: "she/her"  
   bio              : #""
   location         : "Columbia, SC"
   employer         : "University of South Carolina"
   uri              : # URL
-  email            : "john.ampong@grad.moore.sc.edu" 
+  email            : "zheyu.qig@grad.moore.sc.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
