@@ -9,7 +9,4 @@ redirect_from:
 
 Thanks for visiting my site!
 
-
-I am a fifth-year Ph.D. Candidate in Finance at the Darla Moore School of Business at the University of South Carolina. I conduct research broadly in the fields of corporate finance, corporate governance, and fintech. Several of my studies use machine learning techniques in these areas. 
-
-I teach  corporate finance for undergraduate business majors and enjoy helping students understand how financial theory applies to real-world decisions.
+I am a fifth-year Ph.D. Candidate in Finance at the Darla Moore School of Business, University of South Carolina. My research examines how artificial intelligence and emerging technologies transform financial institutions, credit markets, and household financial outcomes. My work spans banking, financial institutions, household finance, and international finance.
