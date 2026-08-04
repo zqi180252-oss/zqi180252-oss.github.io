@@ -103,6 +103,12 @@
       border: 1px solid $border-color;
     }
   }
+
+  img[src*="InnerMongolia"] {
+    @include breakpoint($large) {
+      width: 960px;
+    }
+  }
 }
 
 .author__content {
