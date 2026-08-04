@@ -5,7 +5,7 @@
 .activity-note {
   font-style: italic;
   color: $dark-gray;
-  margin-bottom: 1em;
+  margin-bottom: 1.2em;
 }
 
 .activity-subhead {
@@ -13,37 +13,26 @@
   font-size: 1.15em;
   font-weight: 700;
   color: $academic-blue;
-  margin-top: 1.5em;
-  margin-bottom: 0.4em;
+  margin-top: 1.6em;
+  margin-bottom: 0.5em;
+}
+
+.activity-year-header {
+  font-family: $header-font-family;
+  font-weight: 700;
+  font-size: 1.1em;
+  color: $text-color;
+  margin-top: 1.3em;
+  margin-bottom: 0.3em;
 }
 
 .activity-list {
-  list-style: none;
-  margin: 0 0 1.8em;
-  padding: 0;
-}
+  margin: 0 0 0.5em;
+  padding-left: 1.4em;
 
-.activity-item {
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-  gap: 1em;
-  padding: 0.55em 0;
-  border-bottom: 1px solid $border-color;
-  font-size: 1.1em;
-
-  &:last-child {
-    border-bottom: none;
+  li {
+    font-size: 1.1em;
+    line-height: 1.8;
+    margin-bottom: 0.15em;
   }
-}
-
-.activity-name {
-  flex: 1;
-}
-
-.activity-year {
-  flex-shrink: 0;
-  color: $dark-gray;
-  font-weight: 700;
-  white-space: nowrap;
 }
