@@ -2,16 +2,11 @@
    PUBLICATIONS / WORKING PAPERS
    ========================================================================== */
 
-.pub-note {
-  font-style: italic;
-  font-size: $type-size-6;
-  color: $light-gray;
-  margin-bottom: 1.5em;
-}
+$academic-blue: #1a4b8c;
 
 .pub-entry {
-  margin-bottom: 2.75em;
-  padding-bottom: 2em;
+  margin-bottom: 3.5em;
+  padding-bottom: 2.5em;
   border-bottom: 1px solid $border-color;
 
   &:last-child {
@@ -28,7 +23,7 @@
   margin-bottom: 0.35em;
 
   a {
-    color: $link-color;
+    color: $academic-blue;
     text-decoration: none;
     background-image: linear-gradient(currentColor, currentColor);
     background-position: 0 100%;
@@ -42,7 +37,7 @@
   }
 
   .pub-nolink {
-    color: $text-color;
+    color: $academic-blue;
   }
 }
 
@@ -96,6 +91,11 @@
     border: 1px solid mix(#fff, $info-color, 55%);
   }
 
+  .pub-rr {
+    font-style: italic;
+    font-weight: 700;
+  }
+
   .pub-soon {
     background: $lighter-gray;
     color: $dark-gray;
@@ -103,40 +103,60 @@
     font-weight: 400;
     font-style: italic;
   }
+
+  div {
+    margin-bottom: 0.3em;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
 }
 
 .pub-conf {
   font-size: $type-size-7;
-  color: $light-gray;
+  color: $dark-gray;
+  font-weight: 700;
   line-height: 1.6;
+  text-align: justify;
 
   strong {
     color: $dark-gray;
-    font-weight: 600;
+    font-weight: 700;
   }
 }
 
-/* Work in progress: lighter-weight entries, no abstract/border */
+/* Work in progress: lighter-weight entries, no abstract */
 .wip-entry {
-  margin-bottom: 1.5em;
+  margin-bottom: 2.5em;
+  padding-bottom: 2em;
+  border-bottom: 1px solid $border-color;
+
+  &:last-child {
+    border-bottom: none;
+    padding-bottom: 0;
+    margin-bottom: 0;
+  }
 }
 
 .wip-title {
   font-family: $header-font-family;
   font-size: $type-size-5;
-  font-weight: 600;
-  margin-bottom: 0.2em;
+  font-weight: 700;
+  color: $academic-blue;
+  margin-bottom: 0.3em;
 }
 
 .wip-authors {
   font-size: $type-size-6;
   color: $dark-gray;
   font-style: italic;
-  margin-bottom: 0.3em;
+  margin-bottom: 0.5em;
 }
 
 .wip-status {
   font-size: $type-size-6;
   color: $text-color;
   line-height: 1.6;
+  text-align: justify;
 }
