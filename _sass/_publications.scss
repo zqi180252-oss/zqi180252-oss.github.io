@@ -1,0 +1,142 @@
+/* ==========================================================================
+   PUBLICATIONS / WORKING PAPERS
+   ========================================================================== */
+
+.pub-note {
+  font-style: italic;
+  font-size: $type-size-6;
+  color: $light-gray;
+  margin-bottom: 1.5em;
+}
+
+.pub-entry {
+  margin-bottom: 2.75em;
+  padding-bottom: 2em;
+  border-bottom: 1px solid $border-color;
+
+  &:last-child {
+    border-bottom: none;
+    padding-bottom: 0;
+  }
+}
+
+.pub-title {
+  font-family: $header-font-family;
+  font-size: $type-size-4;
+  font-weight: 600;
+  line-height: 1.4;
+  margin-bottom: 0.35em;
+
+  a {
+    color: $link-color;
+    text-decoration: none;
+    background-image: linear-gradient(currentColor, currentColor);
+    background-position: 0 100%;
+    background-repeat: no-repeat;
+    background-size: 0 1px;
+    transition: background-size 0.2s ease-in-out;
+
+    &:hover {
+      background-size: 100% 1px;
+    }
+  }
+
+  .pub-nolink {
+    color: $text-color;
+  }
+}
+
+.pub-status,
+.pub-authors {
+  font-size: $type-size-6;
+  color: $dark-gray;
+  margin-bottom: 0.2em;
+  line-height: 1.5;
+}
+
+.pub-status {
+  font-style: italic;
+}
+
+.pub-abstract {
+  text-align: justify;
+  line-height: 1.65;
+  margin-top: 0.9em;
+  margin-bottom: 0.9em;
+
+  strong {
+    font-family: $header-font-family;
+  }
+}
+
+.pub-badges {
+  margin-bottom: 0.7em;
+
+  .pub-award,
+  .pub-status-badge,
+  .pub-soon {
+    display: inline-block;
+    border-radius: $border-radius;
+    padding: 0.2em 0.75em;
+    font-size: $type-size-7;
+    font-weight: 600;
+    margin: 0.15em 0.4em 0.15em 0;
+    line-height: 1.6;
+  }
+
+  .pub-award {
+    background: mix(#fff, $warning-color, 85%);
+    color: mix(#000, $warning-color, 30%);
+    border: 1px solid mix(#fff, $warning-color, 55%);
+  }
+
+  .pub-status-badge {
+    background: mix(#fff, $info-color, 85%);
+    color: mix(#000, $info-color, 30%);
+    border: 1px solid mix(#fff, $info-color, 55%);
+  }
+
+  .pub-soon {
+    background: $lighter-gray;
+    color: $dark-gray;
+    border: 1px solid $border-color;
+    font-weight: 400;
+    font-style: italic;
+  }
+}
+
+.pub-conf {
+  font-size: $type-size-7;
+  color: $light-gray;
+  line-height: 1.6;
+
+  strong {
+    color: $dark-gray;
+    font-weight: 600;
+  }
+}
+
+/* Work in progress: lighter-weight entries, no abstract/border */
+.wip-entry {
+  margin-bottom: 1.5em;
+}
+
+.wip-title {
+  font-family: $header-font-family;
+  font-size: $type-size-5;
+  font-weight: 600;
+  margin-bottom: 0.2em;
+}
+
+.wip-authors {
+  font-size: $type-size-6;
+  color: $dark-gray;
+  font-style: italic;
+  margin-bottom: 0.3em;
+}
+
+.wip-status {
+  font-size: $type-size-6;
+  color: $text-color;
+  line-height: 1.6;
+}
