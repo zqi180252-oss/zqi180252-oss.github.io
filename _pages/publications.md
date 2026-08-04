@@ -51,7 +51,7 @@ author_profile: true
   <div class="pub-status">Solo-Authored</div>
   <div class="pub-badges">
     <div><span class="pub-soon">SSRN link coming soon</span></div>
-    <div><span class="pub-award">AFS 2025 Conference – Outstanding Doctoral Research Paper Award</span> <span class="pub-award">Second Year Paper Award</span></div>
+    <div><span class="pub-award">AFS 2025 Conference – Outstanding Doctoral Research Paper Award</span></div>
   </div>
   <p class="pub-abstract"><strong>Abstract:</strong> We examine how lenders price the emerging risks of data breaches in the syndicated loan market. We find that bank lenders increase loan spreads for firms that experienced a data breach during the loan underwriting process. This increase is particularly pronounced for credit lines, rather than term loans. These findings support the Bank Specialness Hypothesis, suggesting that banks maintain a significant informational advantage in pricing new risk factors compared to non-bank lenders. Our results also indicate that firms experiencing a data breach can substantially mitigate these pricing effects through two channels: strong borrower-lender relationships and proactive cybersecurity risk management. This finding complements existing relationship lending studies by incorporating cybersecurity risk.</p>
   <div class="pub-conf"><strong>Presentations:</strong> 51st EBES Conference Annual Meeting 2025, AFS Annual Conference 2025, University of South Carolina</div>

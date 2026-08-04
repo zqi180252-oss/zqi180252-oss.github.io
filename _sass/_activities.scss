@@ -1,0 +1,49 @@
+/* ==========================================================================
+   CONFERENCE & AWARD & SERVICE
+   ========================================================================== */
+
+.activity-note {
+  font-style: italic;
+  color: $dark-gray;
+  margin-bottom: 1em;
+}
+
+.activity-subhead {
+  font-family: $header-font-family;
+  font-size: 1.15em;
+  font-weight: 700;
+  color: $academic-blue;
+  margin-top: 1.5em;
+  margin-bottom: 0.4em;
+}
+
+.activity-list {
+  list-style: none;
+  margin: 0 0 1.8em;
+  padding: 0;
+}
+
+.activity-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1em;
+  padding: 0.55em 0;
+  border-bottom: 1px solid $border-color;
+  font-size: 1.1em;
+
+  &:last-child {
+    border-bottom: none;
+  }
+}
+
+.activity-name {
+  flex: 1;
+}
+
+.activity-year {
+  flex-shrink: 0;
+  color: $dark-gray;
+  font-weight: 700;
+  white-space: nowrap;
+}
