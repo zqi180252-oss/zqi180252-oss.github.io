@@ -5,7 +5,7 @@ permalink: /Professional_activities/
 author_profile: true
 ---
 
-## **Presentations and Seminars**
+<h2 class="activity-main-header">Presentations and Seminars</h2>
 <p class="activity-note">* Indicates presentation by coauthor</p>
 
 <div class="activity-year-header">2026</div>
@@ -30,7 +30,7 @@ author_profile: true
   <li>Temple University*</li>
 </ul>
 
-## **Service**
+<h2 class="activity-main-header">Service</h2>
 
 <div class="activity-subhead">Conference Session Chair</div>
 <ul class="activity-list">
@@ -53,7 +53,7 @@ author_profile: true
   <li>Exam Coordinator, Department of Finance — 2024-2025</li>
 </ul>
 
-## **Awards and Honors**
+<h2 class="activity-main-header">Awards and Honors</h2>
 
 <ul class="activity-list">
   <li>University of South Carolina Graduate School Travel Grant — 2026</li>
