@@ -96,11 +96,17 @@
     border-radius: 8px;
 
     @include breakpoint($large) {
-      width: 480px;
+      width: 320px;
       max-width: none;
       height: auto;
       padding: 5px;
       border: 1px solid $border-color;
+    }
+  }
+
+  body.layout-home & img {
+    @include breakpoint($large) {
+      width: 480px;
     }
   }
 
