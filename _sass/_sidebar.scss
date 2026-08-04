@@ -106,10 +106,9 @@
   }
 
   body.layout-home & img {
-    @include breakpoint($large) {
-      width: 700px !important;
-      height: auto !important;
-    }
+    width: 700px !important;
+    max-width: none !important;
+    height: auto !important;
   }
 
   img[src*="InnerMongolia"] {
