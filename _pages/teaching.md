@@ -19,11 +19,11 @@ author_profile: true
 </ul>
 
 <h3 class="teaching-subhead">Comments from Students:</h3>
-<ul class="teaching-list">
-  <li>"Professor really cares and takes time to talk out theories, not only showing on slide shows. I think she believes that if you understand it you can talk about it and that leads us to be able to understand more since she makes us talk about what we learn very effortlessly."</li>
-  <li>"She actually cares about her students and wants them to learn. She makes sure everyone is on pace during class and slows down and helps students if needed."</li>
-  <li>"She is very down-to-earth and knows how to create a good learning environment."</li>
-  <li>"The lecture structure resonating with me well. Being a smaller class, we were encouraged to participate more in class which helps me hold the information longer."</li>
+<ul class="teaching-quotes">
+  <li>Professor really cares and takes time to talk out theories, not only showing on slide shows. I think she believes that if you understand it you can talk about it and that leads us to be able to understand more since she makes us talk about what we learn very effortlessly.</li>
+  <li>She actually cares about her students and wants them to learn. She makes sure everyone is on pace during class and slows down and helps students if needed.</li>
+  <li>She is very down-to-earth and knows how to create a good learning environment.</li>
+  <li>The lecture structure resonating with me well. Being a smaller class, we were encouraged to participate more in class which helps me hold the information longer.</li>
 </ul>
 
 <h2 class="teaching-main-header">Industry Experience</h2>

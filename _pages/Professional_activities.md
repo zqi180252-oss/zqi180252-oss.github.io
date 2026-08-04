@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Conference & Award & Service"
+title: "Professional Activities"
 permalink: /Professional_activities/
 author_profile: true
 ---
