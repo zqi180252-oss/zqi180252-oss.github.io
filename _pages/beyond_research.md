@@ -6,7 +6,7 @@ author: beyond_research
 author_profile: true
 ---
 
-<div class="home-intro">
+<div class="home-intro" markdown="1">
 
 I am a girl who grew up on the endless grasslands of Inner Mongolia, China, where horseback riding and traditional Mongolian culture were woven into my childhood. That environment shaped me into an independent, adventurous, and free-spirited person who is always ready to explore new possibilities.
 
