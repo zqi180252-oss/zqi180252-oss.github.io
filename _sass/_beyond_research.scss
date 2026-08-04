@@ -1,0 +1,35 @@
+/* ==========================================================================
+   BEYOND RESEARCH
+   ========================================================================== */
+
+.beyond-research-flex {
+  display: flex;
+  align-items: flex-start;
+  gap: 2em;
+  margin-top: 1em;
+
+  @media screen and (max-width: 768px) {
+    flex-direction: column;
+  }
+}
+
+.beyond-research-img {
+  flex-shrink: 0;
+  width: 420px;
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  padding: 5px;
+  border: 1px solid $border-color;
+}
+
+.beyond-research-text {
+  flex: 1;
+
+  p {
+    text-align: justify;
+    line-height: 1.65;
+    font-size: 1.1em;
+    margin-bottom: 1em;
+  }
+}

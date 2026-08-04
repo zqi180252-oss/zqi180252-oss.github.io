@@ -11,7 +11,10 @@ main:
     url: /Professional_activities/
 
   - title: "Teaching"
-    url: /teaching/   
+    url: /teaching/
+
+  - title: "Beyond Research"
+    url: /beyond-research/
 
 #  - title: "Talks"
 #    url: /talks/    
