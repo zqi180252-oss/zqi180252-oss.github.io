@@ -15,12 +15,14 @@ author_profile: true
   <li>EUROFIDAI-ESSEC Paris</li>
   <li>SFA</li>
   <li>EasternFA</li>
+  <li>University of South Carolina</li>
 </ul>
 
 <div class="activity-year-header">2025</div>
 <ul class="activity-list">
   <li>51st EBES Conference Annual Meeting</li>
   <li>AFS Annual Conference</li>
+  <li>University of South Carolina</li>
 </ul>
 
 <div class="activity-year-header">2022</div>
