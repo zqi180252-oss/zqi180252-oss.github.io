@@ -106,7 +106,8 @@
 
   body.layout-home & img {
     @include breakpoint($large) {
-      width: 480px;
+      width: 480px !important;
+      height: auto !important;
     }
   }
 
