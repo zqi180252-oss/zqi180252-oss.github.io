@@ -105,6 +105,12 @@
     }
   }
 
+  img[src*="InnerMongolia"] {
+    width: 700px !important;
+    max-width: none !important;
+    height: auto !important;
+  }
+
 }
 
 .author__content {

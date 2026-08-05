@@ -38,7 +38,7 @@ author_profile: true
   <div class="pub-title">
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3908707" target="_blank" rel="noopener">The Paycheck Protection Program (PPP) from the Small Business Perspective: Did the PPP Help Alleviate Financial and Economic Constraints?</a>
   </div>
-  <div class="pub-authors">with John Ampong, Allen N. Berger, Paul G. Freed, and Jonathan A. Scott</div>
+  <div class="pub-authors">with John Ampong, Allen N. Berger, Paul G. Freed, Jonathan A. Scott, and Siwen Zhang</div>
   <div class="pub-badges"><span class="pub-status-badge pub-rr">Revise &amp; Resubmit, Journal of Banking &amp; Finance (JBF)</span></div>
   <p class="pub-abstract"><strong>Abstract:</strong> We employ two novel datasets to evaluate whether the Paycheck Protection Program (PPP) met short-term and longer-term goals. One dataset matches PPP with small business members of the National Federation of Business (NFIB) that report their financial constraints and their employees' economic constraints. We find more alleviation of both constraints for PPP recipients, consistent with short-term goals. We employ data on post- versus pre-crisis county employment, wages, and new businesses to test the longer-term goal of improved community crisis recoveries from the short-term constraint relief. We find to the contrary, worse longer-term recoveries in counties with more short-term constraint relief.</p>
   <div class="pub-conf"><strong>Presentations:</strong> 2022 SFA*, 2022 FMA*, Temple University*, University of South Carolina*</div>
