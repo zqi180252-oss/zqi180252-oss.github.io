@@ -2,9 +2,12 @@
 layout: single
 title: "Beyond Research"
 permalink: /beyond-research/
-author: beyond_research
-author_profile: true
+author_profile: false
 ---
+
+{% include base_path %}
+
+<img src="{{ base_path }}/images/InnerMongolia.jpg" class="beyond-hero-img" alt="Inner Mongolia grasslands">
 
 <div class="home-intro" markdown="1">
 
