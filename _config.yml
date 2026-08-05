@@ -33,7 +33,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=Fj9sOjgAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=WHlyt0YAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : #
   semantic         : # URL
@@ -136,6 +136,7 @@ social:
   links:
     - "https://www.linkedin.com/in/zheyu-qi-a4b796302"
     - "https://ssrn.com/author=5897107"
+    - "https://scholar.google.com/citations?user=WHlyt0YAAAAJ&hl=en&oi=ao"
 
 
 # Analytics: false
