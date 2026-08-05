@@ -12,6 +12,7 @@ title                    : "Zheyu Qi's Homepage"
 title_separator          : "-"
 name                     : &name "Zheyu Qi"
 description              : &description "Zheyu Qi is a Ph.D. Candidate in Finance at the Darla Moore School of Business, University of South Carolina. Her research examines how artificial intelligence is transforming banking, financial institutions, credit markets, and household finance."
+keywords                 : "Zheyu Qi, Zheyu Qi Finance, Zheyu Qi PhD, Zheyu Qi University of South Carolina, Zheyu Qi USC, Zheyu Qi Darla Moore School of Business, Zheyu Qi personal website, Zheyu Qi research, Zheyu Qi job market paper, Ph.D. Candidate Finance, Banking and Financial Institutions, Artificial Intelligence in Banking, Household Finance, International Finance"
 url                      : https://zqi180252-oss.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zqi180252-oss/zqi180252-oss.github.io"
@@ -130,9 +131,11 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : "Zheyu Qi"
+  links:
+    - "https://www.linkedin.com/in/zheyu-qi-a4b796302"
+    - "https://ssrn.com/author=5897107"
 
 
 # Analytics: false
