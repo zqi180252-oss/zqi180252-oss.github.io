@@ -51,12 +51,6 @@ author_profile: true
 ## **Work in Progress**
 
 <div class="wip-entry">
-  <div class="wip-title">Artificial Intelligence and the Geography of Credit: Evidence from Global Syndicated Lending</div>
-  <div class="wip-authors">with Omrane Guedhami, Raluca Roman</div>
-  <div class="wip-status"><strong>Status:</strong> We study how AI adoption by global banks affects syndicated lending across borders, and whether this effect varies systematically with institutional distance and regulatory differences between lender and borrower countries.</div>
-</div>
-
-<div class="wip-entry">
   <div class="wip-title">Boomerang Credit: Do Anti-ESG Laws Reallocate Bank Corporate Credit to Fossil-Fuel Firms?</div>
   <div class="wip-authors">with Allen Berger, Paola Dorazio, Raluca Roman</div>
   <div class="wip-status"><strong>Status:</strong> We study whether state-level anti-ESG laws, which restrict public entities from doing business with financial institutions perceived as boycotting fossil-fuel or firearms companies, spill over from the municipal finance market into the corporate credit market.</div>
