@@ -27,15 +27,6 @@ author_profile: true
 
 <div class="pub-entry">
   <div class="pub-title">
-    <a href="#" class="pub-nolink" target="_blank" rel="noopener">From Soft to Hard: How AI Transforms Bank Information Production in Mortgages</a>
-  </div>
-  <div class="pub-authors">with Allen N. Berger, Omrane Guedhami, Raluca A. Roman</div>
-  <div class="pub-badges"><span class="pub-soon">SSRN link coming soon</span></div>
-  <p class="pub-abstract"><strong>Abstract:</strong> AI is transforming how banks produce information for credit decisions, but existing research treats the process as a black box. We identify the mechanism: AI converts soft information — difficult-to-verify, judgment-dependent borrower signals — into standardized hard-information signals. Linking 1.8 million HMDA mortgage applications (2018–2024) to bank-level AI patent and employee measures, we show that AI adoption reduces denials by 4.7 percentage points. The reduction is concentrated entirely in soft denials, which capture processing-related frictions rather than clear credit-quality failures; hard-information denials are largely unchanged. Among denied applicants, soft-information denials fall by 12.4 percentage points, a 34.5% decline. Effects are strongest where soft information is most salient: jumbo loans, informationally advantaged markets, and proprietary underwriting systems. Non-bank mortgage companies deploy AI talent at higher intensity than banks yet exhibit no parallel effects, as they lack the relationship-based infrastructure that generates the soft information AI requires as input. AI also reduces loan pricing at banks, with no corresponding effects at non-bank lenders. Overall, the evidence indicates that AI converts difficult-to-process borrower information into standardized underwriting signals.</p>
-</div>
-
-<div class="pub-entry">
-  <div class="pub-title">
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3908707" target="_blank" rel="noopener">The Paycheck Protection Program (PPP) from the Small Business Perspective: Did the PPP Help Alleviate Financial and Economic Constraints?</a>
   </div>
   <div class="pub-authors">with John Ampong, Allen N. Berger, Paul G. Freed, Jonathan A. Scott, and Siwen Zhang</div>
