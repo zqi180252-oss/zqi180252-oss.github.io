@@ -13,6 +13,7 @@ author_profile: true
   <li>FMA (&times;2)</li>
   <li>3rd AI in Finance (&times;2)</li>
   <li>EUROFIDAI-ESSEC Paris</li>
+  <li>FHC Silicon Valley</li>
   <li>SFA</li>
   <li>EasternFA</li>
   <li>University of South Carolina</li>
